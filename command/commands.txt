@@ -1,0 +1,4 @@
+pip install -r requirement.txt
+git add --all
+git commit -m 'message'
+git push

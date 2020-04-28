@@ -1,0 +1,10 @@
+csv means comma separated values
+    delimiter is comma
+mean : average
+std : standard deviation
+variance
+compute : calculate
+column : not row
+scatter plot
+versus
+marker
