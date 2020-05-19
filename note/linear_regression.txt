@@ -1,0 +1,11 @@
+linear
+regression
+independent variable
+dependent variable
+matrix
+vector
+transpose
+inverse
+multiplication
+concatenate
+axis
